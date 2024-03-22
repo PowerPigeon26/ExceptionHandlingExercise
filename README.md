@@ -1,0 +1,1 @@
+Hi! This project was made to practice exception handling using a try-catch. In the try, we parse through an array of strings, changing the values to ints, and throwing an exception when the value cannot be parsed to an int. We print an error method to the console and continue when an exception occurs. We print the numbers successfully parsed to the console.
